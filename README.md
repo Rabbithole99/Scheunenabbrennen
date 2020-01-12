@@ -1,6 +1,6 @@
 # Scheunenabbrennen
 VR Projekt/ Kurzgeschichte
 
-Hey, das ist das eingerichtete Github Projekt.
+TO DO -> 27.1 //
 
-Bis dann.
+Projektbeschreibung + mind. 1 Screenshot
