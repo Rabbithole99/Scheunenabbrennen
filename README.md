@@ -2,7 +2,7 @@
 VR Projekt/ Kurzgeschichte
 
 Unsere App "Gone Girl" ist eine Interpretation der Kurzgeschichte "Barn Burning" von Haruki Murakami und Lee Chang-dong.
-Beim Öffnen der Anwendung geling man in ein Menü, wo man das "Game" starten kann oder die Anwendung verlassen kann.
+Beim Öffnen der Anwendung erscheint ein Menü, wo man das "Game" starten kann oder die Anwendung verlassen kann.
 Beim Starten des Spiels, gelangt man an einem dunklen Ort. In dieser dunklen Umgebung, befinden sich Skizzen, die die Erinnerungen des Protagonisten (in diesem Falle des Spielers) wiederspiegeln. 
 Durch die Szenen/Erinnerungen wird man von einer Silhouette begleitet, die aber vor einem läuft und den Weg zeigt.
 Bewegen kann man sich durch Teleportation. Auf dem Boden sind verschiedene Punkte gelegt, wenn man diese für 2 Sekunden anvisiert, wird man zu dem jeweiligen Punkt hinteleportiert.
