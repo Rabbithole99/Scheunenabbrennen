@@ -6,7 +6,10 @@ Beim Öffnen der Anwendung erscheint ein Menü, wo man das "Game" starten kann o
 Beim Starten des Spiels, gelangt man an einem dunklen Ort. In dieser dunklen Umgebung, befinden sich Skizzen, die die Erinnerungen des Protagonisten (in diesem Falle des Spielers) wiederspiegeln. 
 Durch die Szenen/Erinnerungen wird man von einer Silhouette begleitet, die aber vor einem läuft und den Weg zeigt.
 Bewegen kann man sich durch Teleportation. Auf dem Boden sind verschiedene Punkte gelegt, wenn man diese für 2 Sekunden anvisiert, wird man zu dem jeweiligen Punkt hinteleportiert.
-Die wichtigsten Szenen wurden aus der Geschichte übertragen, wie z.B. das Kennenlernen auf einer Hochzeit oder das Wiederkehren der Frau, um zu zeigen, dass die Geschichte zwischen dem Protagonisten ( dem Spieler ) und der Frau wichtiger ist als das tatsächliche Scheunenabrennen. Jedenfalls in unserer App.
+Die wichtigsten Szenen wurden aus der Geschichte übertragen, wie z.B. das Kennenlernen auf einer Hochzeit oder das Wiederkehren der Frau, um zu zeigen, dass die Geschichte zwischen dem Protagonisten ( dem Spieler ) und der Frau wichtiger ist als das tatsächliche Scheunenabrennen.
+
+![screenshotst](https://user-images.githubusercontent.com/54251240/73197012-e8e85f80-4130-11ea-9410-9eadbfec5c52.PNG)
+
 Nach der letzten Szene sieht man wie die Silhouette in ein Haus geht.
 Das zweite Level unserer Anwendung, steht im Kontrast zu der bisherigen dunklen Umgebung, und ist hell beleuchtet.
 Die Silhouette verschwindet, wenn man das Licht am Schreibtisch anschaltet. Wenn man dies allerdings wieder ausschaltet, ist die Silhouette trotzdem weg. 
