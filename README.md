@@ -11,4 +11,3 @@ Die wichtigsten Szenen wurden aus der Geschichte übertragen, wie z.B. das Kenne
 ![screenshot2](https://user-images.githubusercontent.com/54251240/73197208-3664cc80-4131-11ea-81cc-931701497e98.PNG)
 ![screenshot3](https://user-images.githubusercontent.com/54251240/73197219-3b298080-4131-11ea-8a1f-470f584c7ec4.PNG)
  
-Dieses offene Ende haben wir bewusst gewählt, um die Interpretation des Spielers anzuregen.
