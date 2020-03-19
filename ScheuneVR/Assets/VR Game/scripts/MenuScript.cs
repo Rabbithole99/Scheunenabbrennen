@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class MenuScript : MonoBehaviour {
 
     public void SceneSwitch(){
-        SceneManager.LoadScene(1);}
+        SceneManager.LoadScene(2);}
 
     public void ExitAPP()
     {

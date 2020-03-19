@@ -27,7 +27,7 @@ public class GVR_Button : MonoBehaviour
         }
         if (gvrTimer > totalTime)
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
           
             
         }
