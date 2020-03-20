@@ -8,6 +8,8 @@ public class MenuScript : MonoBehaviour {
     public void SceneSwitch(){
         SceneManager.LoadScene(2);}
 
+   
+
     public void ExitAPP()
     {
         Application.Quit();
