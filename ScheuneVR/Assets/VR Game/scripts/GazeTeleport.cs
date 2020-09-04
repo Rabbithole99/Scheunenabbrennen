@@ -17,6 +17,8 @@ public class GazeTeleport : MonoBehaviour
 
     public int distanceOfRay = 10;
     private RaycastHit _hit;
+ 
+    
 
 
 
@@ -41,13 +43,14 @@ public class GazeTeleport : MonoBehaviour
         {
             if(imgGaze.fillAmount == 1 && _hit.transform.CompareTag("Teleport"))
             {
-
+                
                 _hit.transform.gameObject.GetComponent<Teleport>().TeleportPlayer();
+               
             }
         }
 
     }
-
+    
 
     public void GVROn()
     {

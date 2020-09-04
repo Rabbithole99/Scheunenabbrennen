@@ -7,6 +7,7 @@ TagManager:
   - Teleport
   - Light
   - IngameMenu
+  - close
   layers:
   - Default
   - TransparentFX
